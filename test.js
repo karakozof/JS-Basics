@@ -1,3 +1,2 @@
-let a = 2
-let x = 1 + (a *= 2);
-console.log(a, x);
+let age = prompt('How old are you?', 100);
+alert(`You are ${age} !`);
