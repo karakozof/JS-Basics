@@ -1,3 +1,3 @@
-const name = 'John'
+const name = 'Ilya'
 const admin = name
 alert(admin);
