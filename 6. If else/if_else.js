@@ -14,6 +14,9 @@ if (whatIsTheNumber > 0) {
     alert(1)
 } if (whatIsTheNumber < 0) {
     alert(-1)
-} if (whatIsTheNumber === 0) {
+} else {
     alert(0)
 };
+
+let result = (a + b < 4) ? "Little" : "Much";
+
